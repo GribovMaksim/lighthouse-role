@@ -12,7 +12,6 @@ You neeed to install and configure `git` and `NGINX` (or another web server) bef
 
 ### Example Playbook
 ```bash
-yml
 - name: Install lighthouse
   hosts: lighthouse
   handlers:

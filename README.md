@@ -1,5 +1,5 @@
 ### Lighthouse
-This role can install and configure [Lighthouse](https://github.com/VKCOM/lighthouse.git) on Centos 8
+This role can install and configure [Lighthouse](https://github.com/VKCOM/lighthouse.git) on Centos 7
 
 ### Requirements
 You neeed to install and configure `git` and `NGINX` (or another web server) before run this role.
